@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*Print alphabet omitting e and q*/
+/**
+ * main - print alphabet
+ * Description: omit e and q
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
