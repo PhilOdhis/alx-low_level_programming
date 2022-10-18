@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*Show base 10 numbers; No printf*/
+/**
+ * main - print base 10
+ * Description: without printf
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
