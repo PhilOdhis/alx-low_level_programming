@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*Prints the Alphabet.*/
+/**
+ * main - print alphabet
+ * Description: print alphabet
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {

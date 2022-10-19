@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*Print base 10 numbers (0-9)*/
+/**
+ * main - print numbers
+ * Description: print base 10 numbers
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
